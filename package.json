@@ -22,7 +22,7 @@
     "contributors:add": "all-contributors add",
     "contributors:generate": "all-contributors generate && node .all-contributors-html.js",
     "contributors:check": "all-contributors check",
-    "sonar": "sonar-scanner"
+    "sonar": "C:\Users\harsh.vadalia\Documents\sonar-scanner-4.4.0.2170\bin\sonar-scanner"
   },
   "husky": {
     "hooks": {
